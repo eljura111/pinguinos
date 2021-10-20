@@ -2,12 +2,14 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 .menus {
   display: flex;
   justify-content: space-around;
   align-items: center;
-
+  background-color: #734159;
+  font-family: 'Poppins', sans-serif;
 }
 .menus li {
   list-style: none;
@@ -19,6 +21,7 @@
   width: 100%;
   max-width: 50%;
   color: white;
+  font-size: larger;
 }
 .video__container {
   max-width: 100%;
@@ -29,4 +32,8 @@
   height: 100vh;
   object-fit: cover;
   filter: brightness(20%);
+}
+.iconocarrito{
+  height: 50px;
+  width: 50px;
 }
