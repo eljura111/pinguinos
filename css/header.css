@@ -8,6 +8,7 @@
   justify-content: space-around;
   align-items: center;
   width: 100%;
+  background-color: #734159;
 }
 .menus li {
   list-style: none;
@@ -19,6 +20,8 @@
   width: 100%;
   max-width: 50%;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
 }
 .video__container {
   max-width: 100%;
@@ -30,4 +33,3 @@
   object-fit: cover;
   filter: brightness(20%);
 }
-:horizontal ;
