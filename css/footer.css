@@ -1,0 +1,21 @@
+footer {
+  background-color: #734159;
+  display: flex;
+  justify-content: center;
+  bottom: 0px;
+  width: 100%;
+}
+
+.logos {
+  width: 50px;
+  filter: invert();
+  margin: 10px;
+}
+
+.rrss {
+  display: flex;
+}
+
+body {
+  margin: 0px;
+}
