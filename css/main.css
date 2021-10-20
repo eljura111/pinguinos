@@ -1,0 +1,31 @@
+.categoriasmain{
+    background-color: #FED4D5;
+    border-radius: 20px;
+    height: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.categoriasmain ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
+
+.tamañocategorias{
+    height: 200px;
+    width: 200px; 
+    border-radius: 20px;  
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.hola{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
