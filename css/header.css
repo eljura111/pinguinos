@@ -36,4 +36,14 @@
 .iconocarrito{
   height: 50px;
   width: 50px;
+  margin-right: 20px;
 }
+.menus2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #734159;
+  font-family: 'Poppins', sans-serif;
+  list-style: none; 
+  
+ }
