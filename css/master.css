@@ -2,7 +2,12 @@
 @import url("main.css");
 @import url("footer.css");
 @import url("categorias.css");
+<<<<<<< HEAD
+body{
+    background-color: #e5e5e5;
+=======
 @import url("ficha.css");
 body {
   background-color: #e5e5e5;
+>>>>>>> 6419d750024581f573f6a0ca721da29e77f7f682
 }
