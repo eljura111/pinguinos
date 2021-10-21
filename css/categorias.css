@@ -1,0 +1,54 @@
+.categoriasinterior {
+    background-color: #FED4D5;
+    border-radius: 20px;
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.categoriasmain ul li{
+    list-style: none;
+    display: flex;
+
+}
+
+.tamañocategorias{
+    margin-top: 50px;
+    height: 200px;
+    width: 200px; 
+    border-radius: 20px;  
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+
+
+}
+.hola{
+    display: flex;
+    justify-content: space-evenly;
+}
+.titulos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #53314F; 
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #53314F;
+}

@@ -6,11 +6,12 @@
 }
 .menus {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: #734159;
   width: 100%;
   font-family: "Poppins", sans-serif;
+  margin-bottom: 0%;
 }
 
 .menus li {
@@ -25,18 +26,24 @@
   color: white;
   font-size: larger;
 }
-.video__container {
-  max-width: 100%;
-  height: 100vh;
-  margin-top: 0px;
+.headerimg {
+  display: flex;
+  align-items: center;
+  width: 2%;
 }
-.header__video {
-  width: 100%;
-  height: 100vh;
-  object-fit: cover;
-  filter: brightness(20%);
+.iconoburger {
+  display: none;
 }
 .iconocarrito {
   height: 50px;
   width: 50px;
+  margin-right: 20px;
+}
+.menus2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #734159;
+  font-family: "Poppins", sans-serif;
+  list-style: none;
 }
