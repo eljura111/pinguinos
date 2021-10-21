@@ -9,23 +9,17 @@
   justify-content: space-around;
   align-items: center;
   background-color: #734159;
-  font-family: "Poppins", sans-serif;
+  list-style: none;
+  width: 100%;
   margin-bottom: 0%;
   margin-top: 0%;
-  height: 60gipx;
-}
-
-.menus li {
-  list-style: none;
 }
 .header__texts {
   display: flex;
   justify-content: space-around;
-  align-items: center;
-  width: 100%;
-  max-width: 50%;
+  font-family: "Poppins", sans-serif;
   color: white;
-  font-size: larger;
+  width: 50%;
 }
 .headerimg {
   display: flex;
