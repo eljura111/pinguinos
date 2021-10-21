@@ -54,3 +54,25 @@ h2 {
   margin-top: 50px;
   border-radius: 20px;
 }
+.hola {
+  display: flex;
+  justify-content: space-evenly;
+}
+.titulos {
+  display: flex;
+  justify-content: space-evenly;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  color: #53314f;
+}
+.ficha {
+  background-color: #fed4d5;
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-radius: 20px;
+}

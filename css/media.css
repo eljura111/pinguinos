@@ -1,24 +1,28 @@
 @media only screen and (max-width: 549px) {
   .body {
     font-size: 10px;
+    overflow-x: hidden;
   }
   .menus {
-    width: 100%;
+    width: 90%;
     max-width: 100%;
     justify-content: space-between;
   }
   .menu ul {
-    width: 100%;
+    width: 40%;
   }
   .header__texts {
     position: absolute;
-    transform: translateX(150%);
+    transform: translateX(200%);
     display: flex;
     justify-content: space-around;
     flex-direction: column;
     top: 19%;
     background-color: blue;
     height: 50%;
+  }
+  .headerimg {
+    margin-left: 23px;
   }
   .penguinIMG {
     width: 50px;
@@ -28,16 +32,19 @@
     margin-left: 2%;
   }
   .iconocarrito {
-    width: 40px;
-    height: 40px;
+    width: 31px;
+    height: 31px;
+    display: flex;
+    align-items: center;
   }
   .iconoburger {
-    width: 40px;
-    height: 40px;
+    width: 33px;
+    height: 33px;
     display: block;
+    display: flex;
+    align-items: center;
   }
-  .main {
-  }
+
   .video__container {
     height: 70%;
   }
