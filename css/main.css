@@ -46,14 +46,6 @@ h2 {
   justify-content: center;
   color: #53314f;
 }
-.ficha {
-  background-color: #fed4d5;
-  width: 500px;
-  height: 500px;
-  margin-left: 100px;
-  margin-top: 50px;
-  border-radius: 20px;
-}
 .hola {
   display: flex;
   justify-content: space-evenly;
@@ -68,14 +60,7 @@ h2 {
   justify-content: center;
   color: #53314f;
 }
-.ficha {
-  background-color: #fed4d5;
-  width: 500px;
-  height: 500px;
-  margin-left: 100px;
-  margin-top: 50px;
-  border-radius: 20px;
-}
+
 .hola{
     display: flex;
     justify-content: space-evenly;
@@ -92,11 +77,12 @@ h2{
 }
 .ficha{
     background-color: #FED4D5;
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 640px ;
     margin-left: 100px;
     margin-top: 50px;
     border-radius: 20px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }

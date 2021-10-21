@@ -2,8 +2,10 @@
 @import url("main.css");
 @import url("footer.css");
 @import url("media.css");
-@import url(categorias.css);
+@import url("categorias.css");
+@import url("ficha.css");
 
 body {
   background-color: #e5e5e5;
+  font-family: "Poppins", sans-serif;
 }
