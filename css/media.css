@@ -12,14 +12,7 @@
     width: 40%;
   }
   .header__texts {
-    position: absolute;
-    transform: translateX(200%);
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    top: 19%;
-    background-color: blue;
-    height: 50%;
+    display: none;
   }
   .headerimg {
     margin-left: 23px;
@@ -57,15 +50,13 @@
     height: 545px;
   }
   .tamañocategorias {
-    position: absolute;
     display: none;
   }
   .categoriasdiv {
     background-color: #fed4d5;
     height: 110px;
   }
-  .categoriastexto {
-  }
+
   .footer {
     margin-bottom: -20%;
   }
