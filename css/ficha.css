@@ -1,5 +1,7 @@
 .plantaficha {
-  width: 400px;
+  width: 460px;
   justify-content: center;
   display: flex;
+  height: fit-content;
+  margin-top: 20px;
 }

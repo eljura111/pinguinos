@@ -48,5 +48,6 @@ h2{
     margin-left: 100px;
     margin-top: 50px;
     border-radius: 20px;
-    
+    display: flex;
+    justify-content: center;
 }
