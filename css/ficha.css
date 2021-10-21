@@ -1,7 +1,50 @@
 .plantaficha {
-  width: 460px;
-  justify-content: center;
-  display: flex;
-  height: fit-content;
+  width: 650px;
   margin-top: 20px;
+}
+.imgpequeñasficha{
+  width: 100px;
+  padding: 10px;
+  border-radius: 20px
+
+}
+.divimgpequeñasficha{
+  display: flex;
+  justify-content: start;
+  margin-left: -300px;
+  align-items: center;
+}
+.mainficha{
+  display: flex;
+
+
+}
+.infoficha{
+  margin-left: 50px;
+  margin-top: 50px;
+  height: 200px;
+  width: 800px;
+  font-size: 12px;
+}
+.infoficha h1{
+  font-size: 50px;
+}
+.descripcionficha{
+  font-size: 12px;
+}
+.descripcionlarga{
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+  font-size: 12px;
+  margin-bottom: 50px;
+}
+.descripcionlarga h2{
+  display: flex;
+  justify-content: start;
+
+}
+.infoficha h2{
+  display: flex;
+  justify-content: start;
 }
