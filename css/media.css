@@ -1,0 +1,50 @@
+@media only screen and (max-width: 549px) {
+  .body {
+    font-size: 10px;
+  }
+  .menus {
+    width: 100%;
+  }
+  .header__texts {
+    position: absolute;
+    transform: translateX(150%);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    top: 19%;
+    background-color: blue;
+    height: 50%;
+  }
+  .penguinIMG {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+  .main {
+  }
+  .video__container {
+    height: 70%;
+  }
+  .header__video {
+    height: 60%;
+  }
+  .categoriasmain {
+    display: inline-block;
+  }
+  .tamañocategorias {
+    position: absolute;
+    display: none;
+  }
+  .categoriasdiv {
+    background-color: #fed4d5;
+    height: 110px;
+  }
+  .categoriastexto {
+  }
+
+  .categoriasmain {
+    background-color: #e5e5e5;
+    height: 545px;
+  }
+}
