@@ -1,7 +1,7 @@
 @import url("header.css");
 @import url("main.css");
 @import url("footer.css");
-@import url(categorias.css);
+@import url("categorias.css");
 body{
     background-color: #e5e5e5;
 }
