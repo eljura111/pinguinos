@@ -1,0 +1,72 @@
+@media only screen and (max-width: 549px) {
+  .body {
+    font-size: 10px;
+    overflow-x: hidden;
+  }
+  .menus {
+    width: 90%;
+    max-width: 100%;
+    justify-content: space-between;
+  }
+  .menu ul {
+    width: 40%;
+  }
+  .header__texts {
+    position: absolute;
+    transform: translateX(200%);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    top: 19%;
+    background-color: blue;
+    height: 50%;
+  }
+  .headerimg {
+    margin-left: 23px;
+  }
+  .penguinIMG {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+  }
+  .iconocarrito {
+    width: 31px;
+    height: 31px;
+    display: flex;
+    align-items: center;
+  }
+  .iconoburger {
+    width: 33px;
+    height: 33px;
+    display: block;
+    display: flex;
+    align-items: center;
+  }
+
+  .video__container {
+    height: 70%;
+  }
+  .header__video {
+    height: 60%;
+  }
+  .categoriasmain {
+    display: inline-block;
+    background-color: #e5e5e5;
+    height: 545px;
+  }
+  .tamañocategorias {
+    position: absolute;
+    display: none;
+  }
+  .categoriasdiv {
+    background-color: #fed4d5;
+    height: 110px;
+  }
+  .categoriastexto {
+  }
+  .footer {
+    margin-bottom: -20%;
+  }
+}
