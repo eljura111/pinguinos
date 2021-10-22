@@ -22,6 +22,9 @@
   list-style: none;
   display: flex;
 }
+.link {
+  text-decoration: none;
+}
 
 .tamañocategorias {
   margin-top: 50px;
@@ -61,28 +64,28 @@ h2 {
   color: #53314f;
 }
 
-.hola{
-    display: flex;
-    justify-content: space-evenly;
+.hola {
+  display: flex;
+  justify-content: space-evenly;
 }
-.titulos{
-    display: flex;
-    justify-content: space-evenly;
+.titulos {
+  display: flex;
+  justify-content: space-evenly;
 }
-h2{
-    font-family: 'Poppins', sans-serif;
-    display: flex;
-    justify-content: center;
-    color: #53314F;
+h2 {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  color: #53314f;
 }
-.ficha{
-    background-color: #FED4D5;
-    width: 700px;
-    height: 640px ;
-    margin-left: 100px;
-    margin-top: 50px;
-    border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+.ficha {
+  background-color: #fed4d5;
+  width: 700px;
+  height: 640px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
